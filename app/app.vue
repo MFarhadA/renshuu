@@ -4,7 +4,7 @@ import HomePage from './HomePage.vue';
 </script>
 
 <template>
-  <div>
+  <div class="min-h-screen bg-[var(--background-color)] text-[var(--text-color)]">
     <HomePage />
   </div>
 </template>
